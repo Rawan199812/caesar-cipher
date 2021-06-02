@@ -6,6 +6,7 @@ authors = ["Rawan199812 <rawan.13579@icloud.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+nltk = "^3.6.2"
 
 [tool.poetry.dev-dependencies]
 
